@@ -12,3 +12,5 @@ You can download the production-ready automation package and premium code tools 
 - Kernel Version Verification
 - Multi-core Intel CPU & RAM Hardware Telemetry
 - Automatic Port Blocking (TCP 22, 8080) for Attack Prevention
+- ### ⭐ Support the Project & Leave a Review
+If you find this automation suite helpful, please consider leaving a review on my store. Your feedback and ratings help push the developers to build even better network security tools! Let's build a safer open-source world together! 🤝🚀

@@ -1,5 +1,4 @@
-![Payhip](https://shields.io)](https://payhip.com) [![Language](https://shields.io)](https://github.com) [![License](https://shields.io)](https://opensource.org)
-
+[![Payhip](https://shields.io)](https://payhip.com) [![Language](https://shields.io)](https://github.com) [![License](https://shields.io)](https://opensource.org)
 # Premium Linux Security & Network Automation Suite (PRO)
 Developed by **medeni_whitehat** 🛡️
 

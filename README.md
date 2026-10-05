@@ -6,8 +6,11 @@ An interactive, automated Bash script solution designed for system administrator
 
 ### 🚀 Get the Full Automation Suite
 You can download the production-ready automation package and premium code tools directly from my official store:
-👉 [Get it on Payhip](https://payhip.com)
+👉 [Get it on Payhip](https://payhip.com/b/8WPk7)
+## 💎 GET THE PRO VERSION (ALL 4 ELITE MODULES)
+The comprehensive, production-ready PRO Version containing `whitehat_shield.sh`, `whitehat_hunter.sh`, `radar.sh`, and `radar_audit.sh` with life-time support is now officially available for immediate digital download!
 
+🛒 **[Download Medox Security Suite PRO v2.0 here](https://payhip.com)** 💸🛡️
 ### 📊 Key Features
 - Live Network Scanner & Interface Diagnostics
 - Kernel Version Verification
